@@ -1,7 +1,7 @@
 # Olist-Brazilian-Ecommerce
 Perform exploratory analysis through visualizations. Geospatial, Regression, Cluster &amp; Time-series analysis to identify patterns for building a predictive model
 
-![Olist Logo](/Users/stefaniadaskalaki/Google Drive/Data Immersion/6 Achievement/CF6 BRecom/04. Analysis/01. Visualisations/logo-olist.png)
+![Olist Brand Logo](/Users/stefaniadaskalaki/Google Drive/Data Immersion/6 Achievement/CF6 BRecom/04. Analysis/01. Visualisations/logo-olist.png)
 
 ## Tools
 For this project, the following tools were used:
